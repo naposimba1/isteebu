@@ -1,0 +1,30 @@
+.principal {
+    display: flex;
+    background-color: antiquewhite;
+    width: 100%;
+    margin: 5px;
+    padding: 5px;
+}
+
+.un,
+.deux,
+.trois,
+.quatre {
+    width: 25%;
+    border: 2px solid;
+    border-color: blue;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 30px;
+
+}
+
+h1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+}
